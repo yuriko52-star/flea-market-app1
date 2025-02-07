@@ -21,6 +21,10 @@
     php artisan key:generate  
 5. マイグレーションの実行  
     php artisan migrate  
+6. シンボリックリンク作成  
+    php artisan storage:link  
+7. シーディングの実行  
+    php artisan db:seed
   
 ## 使用技術（実行環境）  
  - PHP7.4.9  
