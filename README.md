@@ -30,7 +30,14 @@
  - PHP7.4.9  
  - Laravel8.83.29  
  - MySQL8.0.26  
-
+## ユーザーのメールアドレスとパスワード  
+1.  email :  nobu@gmail.com  
+    password : nobunobunobu  
+2.  email : hurudanuki@gmail.com  
+    password : ponponpon  
+    
+           
+           
 
 ## URL
 - 開発環境：http://localhost/  
